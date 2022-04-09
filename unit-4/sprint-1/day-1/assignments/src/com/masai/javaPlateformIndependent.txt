@@ -1,0 +1,14 @@
+
+
+Problem 1: How java managed to be platform-independent explain.
+
+Answer: Java is platform-independent which means that java compiled code by java compiler. 
+        It generates .class file which is also known as byte code this byte code can execute also on
+        different operating system. In other words
+        Java program is written in human understandable language so first java compiler compile the whole
+        human understandable code into machine level language to make it understandable by JVM(Java Virtual 
+        Machine) then JVM generates byte code that can be executed on different operating system.
+        For running byte code only JRE software need to be installed.
+        
+        Therefore, Java is platform-independent by this quality java is one of the powerful language of the
+        World. 
