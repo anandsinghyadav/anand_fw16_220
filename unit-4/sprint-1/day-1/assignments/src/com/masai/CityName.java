@@ -2,7 +2,7 @@ package com.masai;
 
 public class CityName {
 	
-	
+	// this static method
 	public static void searchByCityName(String city)
 	{
 		switch(city)
